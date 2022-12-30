@@ -1,1 +1,1 @@
-# bookish-telegram
+# 고령자 AI 종합상황 인지시스템
